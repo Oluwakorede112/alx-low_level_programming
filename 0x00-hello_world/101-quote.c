@@ -1,9 +1,10 @@
 #include <stdio.h>
-#include <stdlib.h>
-
+#include <unistd.h>
 /**
- * main - Entry point
- * Return: Always 1 (Success)
+ * main - printing without printf and puts
+ *
+ * Return: always (1)
+ *
  */
 int main(void)
 {
